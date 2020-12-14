@@ -1,0 +1,22 @@
+{
+  "name": "testingpackage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srinivasan93/TestingPackage.git"
+  },
+  "keywords": [
+    "justForTesting"
+  ],
+  "author": "srinivasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srinivasan93/TestingPackage/issues"
+  },
+  "homepage": "https://github.com/srinivasan93/TestingPackage#readme"
+}
